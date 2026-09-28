@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp_images/
+*.jpg
+*.png
+.git/
+.vscode/

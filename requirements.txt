@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+deepface
+tf-keras
+tensorflow
+# OCR CCCD (vietocr cài riêng bằng --no-deps vì nó ghim pillow/numpy bản cũ, xem Dockerfile)
+torch
+torchvision
+einops
+rapidocr
+onnxruntime
+zxing-cpp
